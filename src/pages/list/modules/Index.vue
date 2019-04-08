@@ -1,18 +1,13 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="@/assets/logo.png">
-    <h2>我是列表页面，欢迎你登录系统</h2>
+    <h2>我是刘宝宝 提交的代码  测试一下效果看看！！！！！！！！！！！！</h2>
   </div>
 </template>
-
 <script>
 export default {
-  name: 'app',
-  components: {
-  }
+  name: 'app'
 }
 </script>
-
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
