@@ -1,8 +1,1 @@
-import Vue from 'vue'
-import App from './App.vue'
-
-Vue.config.productionTip = false
-
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+window.location.href = "http://localhost:8080/index.html";
