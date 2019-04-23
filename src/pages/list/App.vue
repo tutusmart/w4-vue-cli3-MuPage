@@ -5,7 +5,7 @@
 <script>
 // import { mapState, mapActions } from 'vuex'
 export default {
-    name: 'App',
+    name: 'Applist',
     data () {
         return {
         }

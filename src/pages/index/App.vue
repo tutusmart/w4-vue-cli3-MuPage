@@ -5,7 +5,7 @@
 <script>
 // import { mapState, mapActions } from 'vuex'
 export default {
-    name: 'App',
+    name: 'Appindex',
     data () {
         return {
         }
@@ -13,6 +13,8 @@ export default {
     methods:{
     },
     mounted(){ 
+
+        console.log(11)
     },
     created () {
     }
